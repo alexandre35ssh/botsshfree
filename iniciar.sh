@@ -53,6 +53,6 @@ screen -dmS bot php bot.php
 rm bot.zip
 
 echo "Pronto, o bot esta executando em segundo plano
-Agradeça a @EQUIPEVIPSSH"
+Agradeça a @alexandre35ssh"
 
 fi
